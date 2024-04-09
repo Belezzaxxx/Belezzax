@@ -8,11 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Belezzaxxx/Belezzax.git"
+    "url": "https://github.com/Belezzaxxx/Belezzax.git"
   },
   "dependencies": {
-    "minti_fulkerson": "0.1.4"
-    "belezzax": "1.0.0"
+    "minti_fulkerson": "0.1.4",
+    "belezzax": "1.0.0",
+    "blammo": "1.0.0"
   },
   "author": "",
   "license": "ISC",
