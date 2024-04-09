@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "minti_fulkerson": "0.1.4"
+    "belezzax": "1.0.0"
   },
   "author": "",
   "license": "ISC",
